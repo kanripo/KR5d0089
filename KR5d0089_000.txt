@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:03:35.427318
-#+TITLE: 玄宗直指萬法同歸
-#+PROPERTY: DZID  DZ1066
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，23—911 七卷 太玄部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL

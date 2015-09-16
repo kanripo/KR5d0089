@@ -1,15 +1,3 @@
-#+TITLE: 玄宗直指萬法同歸 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 02:03:35.635095
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5d0089_000.txt][玄宗直指萬法同歸 0]]
- - [[file:KR5d0089_001.txt][玄宗直指萬法同歸 1]]
- - [[file:KR5d0089_002.txt][玄宗直指萬法同歸 2]]
- - [[file:KR5d0089_003.txt][玄宗直指萬法同歸 3]]
- - [[file:KR5d0089_004.txt][玄宗直指萬法同歸 4]]
- - [[file:KR5d0089_005.txt][玄宗直指萬法同歸 5]]
- - [[file:KR5d0089_006.txt][玄宗直指萬法同歸 6]]
- - [[file:KR5d0089_007.txt][玄宗直指萬法同歸 7]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
